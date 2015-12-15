@@ -1,0 +1,15 @@
+.page-header {
+    text-align: center;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+.panel-body {
+    font-size: 1.8rem;
+}
+
+.panel-title {
+    font-size: 2.3rem;
+}
